@@ -1,5 +1,3 @@
-# config valid only for Capistrano 3.1
-lock '3.2.1'
 
 set :application, 'rail-sandbox'
 set :repo_url, 'https://github.com/collectiveidea/rails-sandbox.git'
